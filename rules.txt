@@ -9,9 +9,9 @@ Player's turn:
 	4. Attack 
 		* Each unit may attack 1 other unit (units with guard have to be attacked first) or the player    
 		* Flying units can attack directly the player (ignoring non flying guards)
-    * Damaged creatures get damage counters
-    * Damaged player removes X top cards from the deck from the game according to the damage
-Remove unused mana exceeding 5
+   		* Damaged creatures get damage counters
+    		* Damaged player removes X top cards from the deck from the game according to the damage
+	5. Remove unused mana exceeding 5
 
-First player with no cards in their deck loses the game
+Goal: First player with no cards in their deck loses the game
 
