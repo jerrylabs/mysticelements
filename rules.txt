@@ -3,14 +3,14 @@ Game contents: 120 cards (8 x 15 cards from each color), 8 colored dice (mana co
 Game start: Each player chooses 3 colors and shuffle the cards to create 45 card deck
 
 Player's turn:
-	1. Draw a cards up to 7
+	1. Draw cards up to 7
 	2. Choose a color and get mana of that color according current turn (1 mana during first turn, 2 mana during second turn, etc. up to max. 5 mana per turn)
 	3. Play units and spells
 	4. Attack 
 		* Each unit may attack 1 other unit (units with guard have to be attacked first) or the player    
 		* Flying units can attack directly the player (ignoring non flying guards)
    		* Damaged creatures get damage counters
-    		* Damaged player removes X top cards from the deck from the game according to the damage
+    		* Damaged player removes X cards from the top of the deck according to the damage
 	5. Remove unused mana exceeding 5
 
 Goal: First player with no cards in their deck loses the game
